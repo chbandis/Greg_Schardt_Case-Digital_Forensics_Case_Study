@@ -1,6 +1,6 @@
 # [Greek] Greg Schardt Case - Digital Forensics Case Study
-Εγκληματολογική ανάλυση της υπόθεσης Greg Schardt, σε συνεργασία με τον [Μάνιο Αθανάσιο](https://www.linkedin.com/in/athanasios-manios/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people_connections%3BaA54pkmOQn%2B9DbKyiJQjrw%3D%3D) κάνοντας χρήση του εργαλείου [Autopsy](https://www.autopsy.com).
-![Autopsy logo](https://github.com/chbandis/Greg_Schardt_Case-Digital_Forensics_Case_Study/assets/91207835/ee6da11b-3b6a-47d6-bcc4-679b76fe1f68)
+Εγκληματολογική ανάλυση της υπόθεσης Greg Schardt, σε συνεργασία με τον [Μάνιο Αθανάσιο](https://www.linkedin.com/in/athanasios-manios/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people_connections%3BaA54pkmOQn%2B9DbKyiJQjrw%3D%3D) κάνοντας χρήση του εργαλείου ![Autopsy](https://github.com/chbandis/Greg_Schardt_Case-Digital_Forensics_Case_Study/assets/91207835/2e46c126-a324-4b0c-be0a-9e6f29b7cf68)
+
 
 
 ## Σερνάριο
