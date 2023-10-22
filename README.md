@@ -1,5 +1,5 @@
 # [Greek] Greg Schardt Case - Digital Forensics Case Study
-Εγκληματολογική ανάλυση της υπόθεσης Greg Schardt κάνοντας χρήση του εργαλείο [Autopsy](https://www.autopsy.com).
+Εγκληματολογική ανάλυση της υπόθεσης Greg Schardt κάνοντας χρήση του εργαλείου [Autopsy](https://www.autopsy.com).
 ![Autopsy logo](https://github.com/chbandis/Greg_Schardt_Case-Digital_Forensics_Case_Study/assets/91207835/ee6da11b-3b6a-47d6-bcc4-679b76fe1f68)
 
 
